@@ -1,3 +1,5 @@
-Flask==2.3.3
+flask==3.0.0
+youtube-transcript-api==0.6.2
+gunicorn==21.2.0
 defusedxml==0.7.1
-git+https://github.com/jdepoix/youtube-transcript-api.git
+requests==2.31.0
